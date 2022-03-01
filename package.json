@@ -6,6 +6,6 @@
   "author": "Béla Kellner",
   "license": "ISC",
   "dependencies": {
-    "mineflayer": "^3.13.0"
+    "mineflayer": "^4.0.0"
   }
 }

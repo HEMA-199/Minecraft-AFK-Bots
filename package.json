@@ -1,11 +1,11 @@
 {
   "name": "minecraft-afk-bots",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Our farming locations are always working with these AFK bots. Once the config files are added to PM2, the bots are ready to run!",
   "main": "./src/index.js",
   "author": "Béla Kellner",
   "license": "ISC",
   "dependencies": {
-    "mineflayer": "^4.0.0"
+    "mineflayer": "^4.3.0"
   }
 }
